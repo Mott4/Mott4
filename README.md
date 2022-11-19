@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo(a)! 👋
 
-Me chamo Vítor, tenho 18 anos e sinceramente, sou apaixonado pela tecnologia! Aqui você irá encontrar meus projetos pessoais e poder acompanhar minha evolução nesse mundo vasto que é o da Programação. 
+🌱 Me chamo Vítor, tenho 18 anos e sinceramente, sou apaixonado por tecnologia! Aqui você irá encontrar meus projetos pessoais e também poderá acompanhar minha evolução nesse mundo vasto que é o da Programação. 
 
 • 🔭 • Atualmente trabalho com Flutter
 -----------------------------------------------
