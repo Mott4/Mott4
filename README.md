@@ -10,7 +10,8 @@
 <div>
 <img align="center" src="https://img.shields.io/twitter/follow/mott4vito?style=social"/>
 <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitehttps://www.instagram.com/web/friendships/:mott4vito/follow/"/>
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/instagram/follow/mott4vito"/>
+ <img align="center" src="https://img.shields.io/instagram/follow/mott4vito?style=social"/>
 </div>
   
 </body>
