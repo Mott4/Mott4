@@ -4,8 +4,6 @@
 
 • 🔭 • Atualmente trabalhando com Flutter
 -----------------------------------------------
-• 💻 • Desenvolvedor Junior
------------------------------------------------
 
 <html>
 <body>
