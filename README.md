@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo(a)! 👋
 
-Me chamo Vitor Mota, sou um grande admirador da tecnologia e me especializo no Flutter.
+- Me chamo Vitor Mota, sou um grande admirador da tecnologia e me especializo no Flutter.
 
 ## Sobre mim
 🌱 Estou em constante aprendizagem e buscando melhorias nas minhas habilidades de programação e relações interpessoais.
@@ -8,11 +8,11 @@ Me chamo Vitor Mota, sou um grande admirador da tecnologia e me especializo no F
 💻 Além de Flutter, também trabalho como UI Designer (Figma).
 
 ## Principais Tecnologias e Habilidades
-Flutter e Dart
-MVVM, MVC
-Provider, MobX, GetX
-Firebase
-Google Services (Maps)
+- Flutter e Dart
+- MVVM, MVC
+- Provider, MobX, GetX
+- Firebase
+- Google Services (Maps)
 
 ## Como Entrar em Contato
 📧 Email: vitorm.lim4@gmail.com
