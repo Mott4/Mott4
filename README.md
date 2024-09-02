@@ -1,18 +1,21 @@
 ## Olá, seja bem vindo(a)! 👋
 
-🌱 Me chamo Vítor, tenho 19 anos e sinceramente, sou apaixonado por tecnologia! Aqui você irá encontrar meus projetos pessoais e também poderá acompanhar minha evolução nesse mundo vasto que é o da Programação.
+Me chamo Vitor Mota, sou um grande admirador da tecnologia e me especializo no Flutter.
 
-• 🔭 • Atualmente trabalhando com Flutter
------------------------------------------------
+• Sobre mim
+🌱 Estou em constante aprendizagem e buscando melhorias nas minhas habilidades de programação e relações interpessoais.
+💼 Trabalho como Desenvolvedor Flutter.
+💻 Além de Flutter, também trabalho como UI Designer (Figma).
+
+• Principais Tecnologias e Habilidades
+Flutter e Dart
+MVVM, MVC
+Provider, MobX, GetX
+Firebase
+Google Services (Maps)
 
 <html>
 <body>
-
-<div>
-<a href="https://github.com/Mott4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mott4&show_icons=true&theme=onedark" />
-</a>
-</div>
 
 <div>
 <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
