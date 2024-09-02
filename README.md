@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo(a)! 👋
 
-- Me chamo Vitor Mota, sou um grande admirador da tecnologia e me especializo no Flutter.
+- Me chamo Vitor Mota, me especializo em Flutter e sou apaixonado por tecnologia!
 
 ## Sobre mim
 - 🌱 Estou em constante aprendizagem e buscando melhorias nas minhas habilidades de programação e relações interpessoais.
