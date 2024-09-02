@@ -3,9 +3,9 @@
 - Me chamo Vitor Mota, sou um grande admirador da tecnologia e me especializo no Flutter.
 
 ## Sobre mim
-🌱 Estou em constante aprendizagem e buscando melhorias nas minhas habilidades de programação e relações interpessoais.
-💼 Trabalho como Desenvolvedor Flutter.
-💻 Além de Flutter, também trabalho como UI Designer (Figma).
+- 🌱 Estou em constante aprendizagem e buscando melhorias nas minhas habilidades de programação e relações interpessoais.
+- 💼 Trabalho como Desenvolvedor Flutter.
+- 💻 Além de Flutter, também trabalho como UI Designer (Figma).
 
 ## Principais Tecnologias e Habilidades
 - Flutter e Dart
@@ -15,17 +15,17 @@
 - Google Services (Maps)
 
 ## Como Entrar em Contato
-📧 Email: vitorm.lim4@gmail.com
-📞 Telefone: (75) 9 8170-2609
-💼 LinkedIn: Vitor Mota Lima
-🌐 GitHub: Mott4
+- 📧 Email: vitorm.lim4@gmail.com
+- 📞 Telefone: (75) 9 8170-2609
+- 💼 LinkedIn: Vitor Mota Lima
+- 🌐 GitHub: Mott4
 
 ## Educação
-Curso de Desenvolvimento de Software em Flutter na Udemy (2022)
+- Curso de Desenvolvimento de Software em Flutter na Udemy (2022)
 
 ## Idiomas
-Português: Nativo
-Inglês: Pré-intermediário (B1)
+- Português: Nativo
+- Inglês: Pré-intermediário (B1)
 
 
 <html>
