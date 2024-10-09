@@ -9,7 +9,7 @@
 
 ## Principais Tecnologias e Habilidades
 - Flutter e Dart
-- MVVM, MVC
+- MVVM, MVC, Modular
 - Provider, MobX, GetX
 - Firebase
 - Google Services (Maps)
