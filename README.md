@@ -12,7 +12,7 @@
 - MVVM, MVC, Modular
 - Provider, MobX, GetX
 - Firebase
-- Google Services (Maps)
+- Google Services 
 
 ## Como Entrar em Contato
 - 📧 Email: vitorm.lim4@gmail.com
